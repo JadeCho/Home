@@ -1,20 +1,10 @@
 ## Jade's space for memory
 
 ### C++ functional programming
-[1. Introduction to functional programming](https://JadeCho.github.com/home/cpp_functional_programming/ch1)
 
 
-
-
-  
-  
-  
-  
-  
-  
-  
-  
 ```
+[1. Introduction to functional programming](https://JadeCho.github.com/home/cpp_functional_programming/ch1)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
