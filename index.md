@@ -1,7 +1,7 @@
 # Jade's space for memory
 
 ## Flutter
-* [flutter basics](https://github.com/JadeCho/Memory-Space/flutter/basics.md)
+* [flutter basics](flutter/basics.md)
 
 ## C++ functional programming
 
